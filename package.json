@@ -1,0 +1,22 @@
+{
+  "name": "com.cruke.local",
+  "version": "2.0.0",
+  "description": "Aplicativo Cruke",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ https://github.com/diogenesjup/Cruke.git"
+  },
+  "keywords": [
+    "Cruke"
+  ],
+  "author": "CRUKE TECNOLOGIA",
+  "license": "ISC",
+  "bugs": {
+    "url": " https://github.com/diogenesjup/Cruke/issues"
+  },
+  "homepage": " https://github.com/diogenesjup/Cruke#readme"
+}
